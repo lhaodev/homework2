@@ -1,0 +1,14 @@
+.navbar-brand {
+    background-color: aquamarine;
+    font-size: 20px;
+    color: yellow;
+    width: 100px;
+    font-weight: 300;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+nav a:hover {
+        background-color: lightgreen
+}
+
