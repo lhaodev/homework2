@@ -72,3 +72,10 @@ background-repeat: repeat;
 button.color {
     background-color: rgb(44, 68, 5);
 }
+
+.socialMedia {
+    height: 5px;
+    padding: 0;
+    margin: 0;
+    width: 5px;
+}
