@@ -148,3 +148,9 @@ button.color {
     text-align: left;
   }
 }
+
+@media screen and (max-width: 494px) {
+  .card-img-top {
+    width: 11rem !important;
+  }
+}
